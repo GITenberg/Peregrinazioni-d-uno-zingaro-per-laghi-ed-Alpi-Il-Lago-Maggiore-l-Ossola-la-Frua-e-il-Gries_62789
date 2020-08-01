@@ -1,5 +1,8 @@
 _repo: Peregrinazioni-d-uno-zingaro-per-laghi-ed-Alpi-Il-Lago-Maggiore-l-Ossola-la-Frua-e-il-Gries_62789
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62789-h/images/cover.jpg
 creator:
   author:
     agent_name: Carrera, Valentino
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '43704'
     url: http://www.gutenberg.org/2009/agents/43704
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62789#Peregrinazioni-d-uno-zingaro-per-laghi-ed-Alpi-Il-Lago-Maggiore-l-Ossola-la-Frua-e-il-Gries
 gutenberg_issued: '2020-07-30'
 gutenberg_type: Text
 identifiers:
